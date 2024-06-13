@@ -138,13 +138,11 @@ Optimised team structures and workflows, space planning, and supplier relations,
 
 ---
 
-### Languages 📢
+### Interests 🐦
 
 </br>
 
-*English*: Fluent
-
-*Italian*: Native
+Hiking 🏞 | Camping ⛺ | Coding 💻 | Cycling 🚵 | Writing 📚 | Baking 🍕 | Farming 👨‍🌾
 
 </br>
 
