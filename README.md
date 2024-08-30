@@ -8,7 +8,7 @@
 
 </br>
 
-Transitioning from a successful career in ***Operations***, which has instilled in me a deep understanding of process optimization and data-driven decision-making, I have recently completed my journey with ***Makers Academy*** - one of Europe's leading bootcamps for software development. At Makers, I've enhanced my skills in compiled languages such as ***Golang*** and ***Java***, solidifying my expertise in ***TDD***, data structures, containerisation and concurrency. Moreover, interpreted languages like ***Python*** and ***JavaScript*** have empowered me to tackle full-stack development challenges, integrating ***databases*** and leveraging ***cloud services***. With a passion for ***continuous learning*** and ***agile methodologies***, I am eager to apply my technical competence and operational expertise to drive positive change in the tech industry.
+Transitioned to Software Engineering from a successful career in ***Operations***, which has given me a thorough understanding of process optimisation and data-driven decision-making, I have expanded my tech skills through Makers Academy’s Software Development bootcamp. At Makers I enhanced my skills in compiled languages such as ***Golang***, solidifying my expertise in TDD, data structures, containerisation and concurrency. Moreover, interpreted languages like ***Python*** and ***JavaScript*** have empowered me to tackle full-stack development challenges. As a ***Generative AI QA***, I'm currently assessing and rating AI-generated code snippets. With a passion for technology and continuous learning, I am eager to apply my technical competence and operational expertise to drive positive change in the tech industry.
 
 </br>
 
@@ -18,13 +18,13 @@ Transitioning from a successful career in ***Operations***, which has instilled 
 
 </br>
 
-***Languages***: Go, Java, JavaScript, Python, HTML, CSS
+***Languages***: Golang, Python, JavaScript, HTML, CSS, TypeScript
 
 ***Frameworks / Libraries***: Gin, Tailwind, Flask, React
 
 ***Testing***: Go Testing, Pytest, Vitest
 
-***Dev Practices***: TDD, Pair Programming
+***Dev Practices and Tools***: Docker, TDD, Pair Programming, CI/CD, GitHub Actions
 
 ***Version Control***: Git, GitHub
 
@@ -39,6 +39,12 @@ Transitioning from a successful career in ***Operations***, which has instilled 
 *All of my projects are available on my [Portfolio Website](https://www.gdloparco.com/projects)*
 
 </br>
+
+> ***[Kate](https://www.gdloparco.com/projects#kate)*** 🔮
+
+Ongoing Project - A fully responsive and containerised web application written in Golang and React that leverages user input and historical data, with the aid of a LLM API, to generate personalised cover letters.
+
+**Technologies**: Docker, Go & Gin Framework, React, Tailwind, TypeScript, PostgreSQL
 
 > ***[Cassandra](https://www.gdloparco.com/projects#cassandra)*** 🔮
 
@@ -86,6 +92,16 @@ Through TDD, added French, Italian, German, and Spanish to the stack of language
 
 </br>
 
+***Generative AI QA***
+
+*Outlier - Remote*
+
+*06-2024 / Present*
+
+As Generative AI QA, I am responsible for assessing AI-generated code snippets to ensure they meet functionality requirements, adhere to proper formatting standards and align with best coding practices. Additionally, I evaluate and rate text and audio outputs in multiple languages, providing detailed feedback to enhance the accuracy, coherence and relevance of different Large Language Models (LLMs) and Generative AI models.
+
+---
+
 ***Junior Software Engineer***
 
 *Makers Academy, London - United Kingdom*
@@ -112,7 +128,7 @@ Explored APIs, AJAX, React Router, state management, testing, and deployment str
 
 ---
 
-***Head of Operations***
+***Operations Manager***
 
 *The Pizza Project Limited, London - United Kingdom*
 
@@ -124,7 +140,7 @@ Supported budgeting and resource control through the analysis of gross profit an
 
 ---
 
-***Operations Manager***
+***Assistant Operations Manager***
 
 *Homeslice Limited, London - United Kingdom*
 
