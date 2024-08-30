@@ -40,7 +40,7 @@ Transitioned to Software Engineering from a successful career in ***Operations**
 
 </br>
 
-> ***[Kate](https://www.gdloparco.com/projects#kate)*** 🔮
+> ***[Kate](https://www.gdloparco.com/projects#kate)*** 🖋️
 
 Ongoing Project - A fully responsive and containerised web application written in Golang and React that leverages user input and historical data, with the aid of a LLM API, to generate personalised cover letters.
 
