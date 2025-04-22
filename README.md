@@ -1,6 +1,6 @@
 # Dom Loparco
 ### 🌍 London
-## [Portfolio](https://www.gdloparco.com) | [LinkedIn](https://www.linkedin.com/in/dom-loparco)
+## [Portfolio](https://dom-loparco.vercel.app) | [LinkedIn](https://www.linkedin.com/in/dom-loparco)
 
 </br>
 
@@ -36,35 +36,35 @@ Transitioned to Software Engineering from a successful career in ***Operations**
 
 ### Projects 💾
 
-*All of my projects are available on my [Portfolio Website](https://www.gdloparco.com/projects)*
+*All of my projects are available on my [Portfolio Website](https://dom-loparco.vercel.app/#work)*
 
 </br>
 
-> ***[Kate](https://www.gdloparco.com/projects#kate)*** 🖋️
+> ***Kate*** 🖋️
 
 Ongoing Project - A fully responsive and containerised web application written in Golang and React that leverages user input and historical data, with the aid of a LLM API, to generate personalised cover letters.
 
 **Technologies**: Docker, Go & Gin Framework, React, Tailwind, TypeScript, PostgreSQL
 
-> ***[Cassandra](https://www.gdloparco.com/projects#cassandra)*** 🔮
+> ***Cassandra*** 🔮
 
 A Golang web-service application connected to a LLM API that simulates a real Tarot Card reader. The animated frontend is coded with Svelte for a smooth user interaction.
 
 **Technologies**: Go & Gin Framework, Svelte, CSS, Open AI API
 
-> ***[Airport Arrivals Board](https://www.gdloparco.com/projects#arrivals-board)*** ✈️
+> ***Airport Arrivals Board*** ✈️
 
 A Golang web-service back-end app, connected to a live FlightAware API that renders real-time arrivals information from a user-chosen airport.
 
 **Technologies**: Go, JavaScript, HTML & CSS, FlightAware API
 
-> ***[VenBnB](https://www.gdloparco.com/projects#venbnb)*** 🌴
+> ***VenBnB*** 🌴
 
 A property hire web service designed in Python, HTML, CSS, and supported by a PostgreSQL database. Users can sign up and see their profile pages, as well as a list of available properties.
 
 **Technologies**: Python, JavaScript, HTML & CSS, PostgreSQL
 
-> ***[Capybook](https://www.gdloparco.com/projects#acebook)*** 🤳
+> ***Capybook*** 🤳
 
 A social media platform for Capybara lovers, designed in Go and React and supported by a PostgreSQL database. Users can sign up and create posts, as well as comment or like other users' posts.
 
@@ -164,5 +164,5 @@ Hiking 🏞 | Camping ⛺ | Coding 💻 | Cycling 🚵 | Writing 📚 | Baking �
 
 ---
 
-Want to get in touch? Send me a message on [LinkedIn](https://www.linkedin.com/in/dom-loparco) or on my [Website](https://www.gdloparco.com/about)!
+Want to get in touch? Send me a message on [LinkedIn](https://www.linkedin.com/in/dom-loparco) or on my [Website](https://dom-loparco.vercel.app/#contact)!
 
